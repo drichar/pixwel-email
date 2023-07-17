@@ -1,6 +1,6 @@
 {
   "name": "pixwel-email",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "HTML Email Templates for Pixwel using MJML",
   "author": "Doug Richar <drichar@gmail.com>",
   "scripts": {
