@@ -1,0 +1,16 @@
+{
+  "name": "pixwel-email",
+  "version": "0.1.0",
+  "description": "HTML Email Templates for Pixwel using MJML",
+  "author": "Doug Richar <drichar@gmail.com>",
+  "scripts": {
+    "mjml": "./node_modules/.bin/mjml",
+    "output": "./output.sh"
+  },
+  "dependencies": {
+    "mjml": "^4.14.1"
+  },
+  "devDependencies": {
+    "prettier": "3.0.0"
+  }
+}

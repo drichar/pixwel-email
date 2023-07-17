@@ -1,0 +1,227 @@
+<mjml>
+  <mj-head>
+    <mj-title>Pixwel</mj-title>
+    <mj-preview>The industry standard in global localization and marketing.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text
+        font-weight="400"
+        font-size="16px"
+        color="#111111"
+        line-height="24px"
+        font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+      ></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section { -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px
+      4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); }
+    </mj-style>
+    <mj-style inline="inline"> .text-link { color: #007bff } </mj-style>
+    <mj-style inline="inline"> .footer-link { color: #888888 } </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#e7e7e7" width="600px">
+    <mj-section full-width="full-width" background-color="#0d121a" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image
+          src="../assets/pixwel-logo.png"
+          alt=""
+          align="center"
+          width="120px"
+          padding-bottom="30px"
+        />
+        <mj-image
+          src="../assets/header-welcome.png"
+          width="600px"
+          alt="Welcome"
+          padding="0"
+          href="#"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section
+      background-color="#161e2b"
+      background-url="../assets/welcome.jpg"
+      padding-top="30px"
+      padding-bottom="240px"
+    >
+      <mj-column width="100%">
+        <mj-button
+          background-color="#007bff"
+          align="center"
+          color="#ffffff"
+          font-size="17px"
+          font-weight="bold"
+          href="#"
+          width="300px"
+          padding-top="0px"
+          padding-bottom="30px"
+        >
+          Sign up now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            You have been invited to join the Pixwel platform.
+          </mj-text>
+          <mj-text color="#637381" font-size="16px"> Hi foo@bar.com, </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia a assumenda nulla in
+            quisquam optio quibusdam fugiat perspiciatis nobis, ad tempora culpa porro labore.
+            Repudiandae accusamus obcaecati voluptatibus accusantium perspiciatis.
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Tempora culpa porro labore. Repudiandae accusamus obcaecati voluptatibus accusantium
+            perspiciatis:
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            <ul>
+              <li style="padding-bottom: 20px">
+                <strong>Lorem ipsum dolor:</strong> Sit amet consectetur adipisicing elit.
+              </li>
+              <li style="padding-bottom: 20px">
+                <strong>Quia a assumenda nulla:</strong> Repudiandae accusamus obcaecati
+                voluptatibus accusantium perspiciatis.
+              </li>
+              <li>
+                <strong>Tempora culpa porro labore:</strong> In quisquam optio quibusdam fugiat
+                perspiciatis nobis.
+              </li>
+            </ul>
+          </mj-text>
+          <mj-text color="#637381" font-size="16px" padding-bottom="30px">
+            Lorem ipsum dolor <a class="text-link" href="#">sit amet consectetur</a> adipisicing
+            elit. Earum eaque sunt nulla in, id eveniet quae unde ad ipsam ut, harum autem porro
+            reiciendis minus libero illo. Vero, fugiat reprehenderit.
+          </mj-text>
+          <mj-button
+            background-color="#007bff"
+            align="center"
+            color="#ffffff"
+            font-size="17px"
+            font-weight="bold"
+            href="#"
+            width="300px"
+          >
+            Sign up now
+          </mj-button>
+          <mj-text color="#637381" font-size="16px" padding-top="30px">
+            Lorem ipsum dolor <a class="text-link" href="#">sit amet consectetur</a> adipisicing
+            elit. Earum eaque sunt nulla in, id eveniet quae unde ad ipsam ut, harum autem porro
+            reiciendis minus libero illo. Vero, fugiat reprehenderit.
+          </mj-text>
+          <mj-text color="#637381" font-size="16px" padding-bottom="0">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section
+        background-color="#ffffff"
+        padding-left="15px"
+        padding-right="15px"
+        padding-top="0"
+      >
+        <mj-column width="50%">
+          <mj-image
+            align="center"
+            src="https://uploads-ssl.webflow.com/5dfe3569e5da7702fc77895c/5ea03d5d7d2f32166a7e85d4_Apr-22-2020%2007-49-06.gif"
+            alt=""
+          />
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image
+            align="center"
+            src="https://uploads-ssl.webflow.com/5dfe3569e5da7702fc77895c/5ea0396e44721dafd051bedc_Screen%20Shot%202020-04-21%20at%2012.11.31%20PM-p-1600.png"
+            alt=""
+          />
+        </mj-column>
+      </mj-section>
+      <mj-section
+        background-color="#ffffff"
+        padding-left="15px"
+        padding-right="15px"
+        padding-top="0"
+      >
+        <mj-column width="100%">
+          <mj-divider border-color="#dfe3e8" border-width="1px" />
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding="0 15px 0 15px">
+        <mj-column width="100%">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px" padding-bottom="0">
+            Get started!
+          </mj-text>
+          <mj-text color="#637381" font-size="16px"> Lorem ipsum dolor sit amet. </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="50%">
+          <mj-text
+            color="#212b35"
+            font-size="12px"
+            text-transform="uppercase"
+            font-weight="bold"
+            padding-bottom="0"
+          >
+            address
+          </mj-text>
+          <mj-text color="#637381" font-size="14px" padding-top="0">
+            7175 W Sunset Blvd
+            <br />
+            Los Angeles, CA 90046
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text
+            color="#212b35"
+            font-size="12px"
+            text-transform="uppercase"
+            font-weight="bold"
+            padding-bottom="0"
+          >
+            website
+          </mj-text>
+          <mj-text color="#637381" font-size="14px" padding-top="0">
+            <a class="text-link" href="https://platform.pixwel.com/">https://platform.pixwel.com</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-wrapper full-width="full-width">
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            You are receiving this email because lorem ipsum dolor sit amet consectetur adipisicing
+            elit. Quia a assumenda nulla in quisquam optio quibusdam fugiat perspiciatis nobis, ad
+            tempora culpa porro labore.
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            &copy; Pixwel LLC, All Rights Reserved.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text
+              color="#445566"
+              font-size="11px"
+              align="center"
+              line-height="16px"
+              font-weight="bold"
+            >
+              <a class="footer-link" href="#">Privacy</a>
+              &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
+              <a class="footer-link" href="#">Unsubscribe</a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
