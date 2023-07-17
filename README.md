@@ -44,4 +44,5 @@ This command should be run from the root directory of the project, and `your-tem
 ## Resources
 
 MJML documentation: https://documentation.mjml.io/
+
 MJML in PHP: https://github.com/qferr/mjml-php
